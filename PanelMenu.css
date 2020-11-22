@@ -1,0 +1,16 @@
+.menu{
+    font-size:18px ;
+    background-color: rgb(131, 128, 128);
+    width: 40%;
+    height: 100%;
+    text-align: start;
+    color: rgb(252, 248, 248);
+    box-sizing: border-box;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
